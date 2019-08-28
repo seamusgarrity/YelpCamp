@@ -1,0 +1,33 @@
+.thumbnail img{
+    width: 100%;
+ 
+}
+
+.thumbnail {
+    padding: 0px;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin-bottom: 10px;
+}
+
+h5 {
+    margin-top: 5px;
+}
